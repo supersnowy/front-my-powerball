@@ -1,0 +1,27 @@
+:root {
+    --main-bg-color: #0e151b;
+    --main-header-bg-color: #24D2FE;
+    --hover-bg-color: #4c413c;
+    --secondary-hover-bg-color: #404654;
+    --disabled-bg-color:#919191;
+    --card-bg-color: #292d38;
+    --product-header-bg-color: #363945;
+    --border-color: #0e151b;
+    --highlight-color: #fff;
+    --main-btn-color: #fff;
+    --disabled-btn-color: #444;
+    --hover-btn-color: #24D2FE;
+    --main-txt-color: white;
+    --secondary-txt-color:  #c1c4cd;
+    --highlight-txt-color: #c29440;
+    --limit-message-txt-color: #707277;
+  }
+  
+  
+  html, body {height:100%; overflow:hidden}
+  body {overflow:auto; --webkit-overflow-scrolling:touch}
+  
+
+.brand-header{
+    text-shadow: #24D2FE 0px 0px 11px;
+  }
